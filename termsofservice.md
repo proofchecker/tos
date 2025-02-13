@@ -1,6 +1,6 @@
 # Proof Checker - Terms of Service
 
-**Effective Date**: [Insert Date]
+**Effective Date**: [13 February, 2025.]
 
 By using the Proof Checker bot (the "Bot"), developed by Kreo.nub, you agree to comply with the following Terms of Service ("Terms"). If you do not agree to these Terms, do not use the Bot.
 
