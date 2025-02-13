@@ -41,4 +41,4 @@ Kreo.nub reserves the right to modify or update these Terms of Service at any ti
 Kreo.nub reserves the right to suspend or terminate the Bot’s service for any server or user that violates these Terms or abuses the Bot’s features.
 
 ## 9. Contact Information
-If you have any questions or concerns about these Terms or the Bot, please contact the developer, Kreo.nub, through [insert contact method].
+If you have any questions or concerns about these Terms or the Bot, please contact the developer, Kreo.nub, through bots support server.
